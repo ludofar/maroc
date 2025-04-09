@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prépositions et adverbes en Darija</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Prépositions et adverbes en Darija</h1>
+    <nav>
+        <a href="index.html">Retour au menu</a>
+    </nav>
+
+    <div class="section">
+        <h2>Introduction</h2>
+        <p>Les prépositions et adverbes permettent de décrire le lieu, le temps et la manière. Ils sont essentiels pour construire des phrases précises.</p>
+    </div>
+
+    <div class="section">
+        <h2>Prépositions courantes</h2>
+        <table>
+            <tr>
+                <th>Préposition</th>
+                <th>Traduction</th>
+            </tr>
+            <tr>
+                <td><em>F</em></td>
+                <td>Dans / À</td>
+            </tr>
+            <tr>
+                <td><em>Foug</em></td>
+                <td>Sur</td>
+            </tr>
+            <tr>
+                <td><em>T7t</em></td>
+                <td>Sous</td>
+            </tr>
+            <tr>
+                <td><em>Qddam</em></td>
+                <td>Devant</td>
+            </tr>
+            <tr>
+                <td><em>Wra</em></td>
+                <td>Derrière</td>
+            </tr>
+            <tr>
+                <td><em>Bjnba</em></td>
+                <td>À côté de</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="section">
+        <h2>Adverbes courants</h2>
+        <table>
+            <tr>
+                <th>Adverbe</th>
+                <th>Traduction</th>
+            </tr>
+            <tr>
+                <td><em>Daba</em></td>
+                <td>Maintenant</td>
+            </tr>
+            <tr>
+                <td><em>Dima</em></td>
+                <td>Toujours</td>
+            </tr>
+            <tr>
+                <td><em>Qlla</em></td>
+                <td>Rarement</td>
+            </tr>
+            <tr>
+                <td><em>Bzzaf</em></td>
+                <td>Beaucoup</td>
+            </tr>
+            <tr>
+                <td><em>Bshwiya</em></td>
+                <td>Un peu</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="section">
+        <h2>Exemples</h2>
+        <ul>
+            <li><em>L-ktab foug l-maktab.</em> - Le livre est sur le bureau.</li>
+            <li><em>Ana f d-dar daba.</em> - Je suis à la maison maintenant.</li>
+            <li><em>L-kas t7t s-srjem.</em> - Le verre est sous la table.</li>
+            <li><em>Nakl bzzaf dima.</em> - Je mange beaucoup toujours.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Fiche de résumé</h2>
+        <ul>
+            <li><em>F</em> - Dans</li>
+            <li><em>Foug</em> - Sur</li>
+            <li><em>T7t</em> - Sous</li>
+            <li><em>Daba</em> - Maintenant</li>
+            <li><em>Bzzaf</em> - Beaucoup</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Conseils pratiques</h2>
+        <ul>
+            <li>Décrivez votre environnement avec ces mots (ex. où sont vos objets).</li>
+            <li>Associez chaque préposition à un objet familier pour mieux retenir.</li>
+            <li>Utilisez les adverbes dans vos phrases quotidiennes.</li>
+        </ul>
+    </div>
+
+    <nav>
+        <a href="index.html">Retour au menu</a>
+    </nav>
+</body>
+</html>
