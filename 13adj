@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adjectifs et comparaisons en Darija</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Adjectifs et comparaisons en Darija</h1>
+    <nav>
+        <a href="index.html">Retour au menu</a>
+    </nav>
+
+    <div class="section">
+        <h2>Introduction</h2>
+        <p>Les adjectifs décrivent les noms, et les comparaisons permettent de comparer des choses ou des personnes. Voici comment les utiliser.</p>
+    </div>
+
+    <div class="section">
+        <h2>Adjectifs courants</h2>
+        <table>
+            <tr>
+                <th>Adjectif</th>
+                <th>Traduction</th>
+            </tr>
+            <tr>
+                <td><em>Kbir</em></td>
+                <td>Grand</td>
+            </tr>
+            <tr>
+                <td><em>Sghir</em></td>
+                <td>Petit</td>
+            </tr>
+            <tr>
+                <td><em>Zwin</em></td>
+                <td>Beau / Bon</td>
+            </tr>
+            <tr>
+                <td><em>Khayb</em></td>
+                <td>Mauvais</td>
+            </tr>
+            <tr>
+                <td><em>B3id</em></td>
+                <td>Loin</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="section">
+        <h2>Comparaisons</h2>
+        <ul>
+            <li><em>A ktar mn B</em> - A est plus que B.</li>
+            <li><em>A qdd B</em> - A autant que B.</li>
+            <li><em>A b7al B</em> - A comme B (similaire).</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Exemples</h2>
+        <ul>
+            <li><em>Had l-ktab kbir.</em> - Ce livre est grand.</li>
+            <li><em>L-bnt sghira ktar mn l-wld.</em> - La fille est plus petite que le garçon.</li>
+            <li><em>Had zwin qdd l-khdma dyali.</em> - Ceci est aussi bon que mon travail.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Fiche de résumé</h2>
+        <ul>
+            <li><em>Kbir</em> - Grand</li>
+            <li><em>Sghir</em> - Petit</li>
+            <li>Plus que : <em>ktar mn</em></li>
+            <li>Autant que : <em>qdd</em></li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Conseils pratiques</h2>
+        <ul>
+            <li>Comparez des objets autour de vous (ex. *Had l-kas kbir ktar mn hada*).</li>
+            <li>Décrivez des personnes avec ces adjectifs.</li>
+            <li>Pratiquez en disant ce que vous préférez.</li>
+        </ul>
+    </div>
+
+    <nav>
+        <a href="index.html">Retour au menu</a>
+    </nav>
+</body>
+</html>
