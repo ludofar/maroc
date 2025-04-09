@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nombres avancés et l’heure en Darija</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Nombres avancés et l’heure en Darija</h1>
+    <nav>
+        <a href="index.html">Retour au menu</a>
+    </nav>
+
+    <div class="section">
+        <h2>Introduction</h2>
+        <p>Maîtriser les nombres et l’heure est crucial pour les interactions quotidiennes, comme faire des achats ou fixer des rendez-vous.</p>
+    </div>
+
+    <div class="section">
+        <h2>Nombres avancés</h2>
+        <table>
+            <tr>
+                <th>Nombre</th>
+                <th>Darija</th>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td><em>7dash</em></td>
+            </tr>
+            <tr>
+                <td>20</td>
+                <td><em>3shrin</em></td>
+            </tr>
+            <tr>
+                <td>50</td>
+                <td><em>Khmsin</em></td>
+            </tr>
+            <tr>
+                <td>100</td>
+                <td><em>Mya</em></td>
+            </tr>
+            <tr>
+                <td>1000</td>
+                <td><em>Alf</em></td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="section">
+        <h2>Dire l’heure</h2>
+        <ul>
+            <li><em>Shnu s-sa3a ?</em> - Quelle heure est-il ?</li>
+            <li><em>S-sa3a wahd.</em> - Il est une heure.</li>
+            <li><em>S-sa3a tlata w nss.</em> - Il est trois heures et demie.</li>
+            <li><em>S-sa3a rb3a w tlatin.</em> - Il est quatre heures trente.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Exemples</h2>
+        <ul>
+            <li><em>Shrit mya d l-flus.</em> - J’ai acheté pour 100 dirhams.</li>
+            <li><em>S-sa3a shnu ?</em> - Quelle heure est-il ? → <em>S-sa3a juj.</em> (Il est deux heures.)</li>
+            <li><em>3ndi 3shrin ktab.</em> - J’ai 20 livres.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Fiche de résumé</h2>
+        <ul>
+            <li>11 : <em>7dash</em></li>
+            <li>100 : <em>Mya</em></li>
+            <li>Quelle heure ? : <em>Shnu s-sa3a ?</em></li>
+            <li>Et demie : <em>w nss</em></li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Conseils pratiques</h2>
+        <ul>
+            <li>Comptez des objets autour de vous avec ces nombres.</li>
+            <li>Demandez l’heure en darija à quelqu’un pour pratiquer.</li>
+            <li>Écrivez vos dépenses en darija (ex. *Shrit khmsin d l-flus*).</li>
+        </ul>
+    </div>
+
+    <nav>
+        <a href="index.html">Retour au menu</a>
+    </nav>
+</body>
+</html>
